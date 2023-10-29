@@ -1,4 +1,4 @@
-# AutoIt
+# 简述
 AutoIt、cmd和bat编写的一些脚本，方便Windows的维护与使用
 
 # 目录含义
